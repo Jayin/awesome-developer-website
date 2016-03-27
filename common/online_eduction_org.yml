@@ -1,0 +1,22 @@
+category: online_eduction_org
+name: 在线教育社区
+websites:
+  - name: 慕课网
+    description: 国内最大的IT技能学习平台
+    url: http://www.imooc.com
+  
+  - name: 极客学院
+    description: 中国最大的IT职业在线教育平台
+    url: http://www.jikexueyuan.com
+  
+  - name: 51CTO学院
+    description: 专业的IT职业在线教育及实战培训平台
+    url: http://edu.51cto.com
+  
+  - name: 网易公开课
+    description: ""
+    url: http://open.163.com
+  
+  - name: 实验楼
+    description: 动手做实验，轻松学IT
+    url: https://www.shiyanlou.com/

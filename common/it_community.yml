@@ -1,0 +1,18 @@
+category: it_community
+name: IT社区
+websites:
+  - name: CSDN
+    description: 全球最大中文IT社区
+    url: http://www.csdn.net
+  
+  - name: 博客园
+    description: 开发者的网上家园
+    url: http://www.cnblogs.com
+  
+  - name: InfoQ
+    description: 促进软件开发领域知识与创新的传播
+    url: http://www.infoq.com
+  
+  - name: 开源中国
+    description: 中国最大的开源技术社区
+    url: http://www.oschina.net

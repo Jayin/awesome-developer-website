@@ -1,0 +1,18 @@
+category: community
+name: 前端社区
+websites:
+  - name: CNode
+    description: 
+    url: https://cnodejs.org
+  
+  - name: W3cplus
+    description: 'W3cplus是一个致力于推广国内前端行业的技术博客'
+    url: http://www.w3cplus.com
+  
+  - name: 前端网
+    description: 'WEB前端开发工程师专业网站'
+    url: http://www.w3cfuns.com
+  
+  - name: 前端外刊
+    description: 让开发更简单
+    url: http://zhuanlan.zhihu.com/FrontendMagazine

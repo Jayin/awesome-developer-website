@@ -1,0 +1,14 @@
+category: it_news
+name: 技术资讯
+websites:
+  - name: 稀土掘金
+    description: 技术分享社区
+    url: http://gold.xitu.io
+  
+  - name: Hacker News
+    description: ""
+    url: https://news.ycombinator.com
+  
+  - name: 开发者头条
+    description: 程序员阅读和分享
+    url: http://toutiao.io

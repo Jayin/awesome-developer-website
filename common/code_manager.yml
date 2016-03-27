@@ -1,0 +1,22 @@
+category: code_manager
+name: 代码托管
+websites:
+  - name: GitHub
+    description: 全球最大
+    url: https://github.com
+  
+  - name: GitLab
+    description: 'Code, test, and deploy together'
+    url: https://about.gitlab.com
+  
+  - name: Bitbucket
+    description: 'The Git solution for professional teams'
+    url: https://bitbucket.org
+  
+  - name: coding.net
+    description: 让开发更简单
+    url: https://coding.net
+  
+  - name: 开源中国
+    description: 不只是编码，我们更注重社会化协作
+    url: http://git.oschina.net

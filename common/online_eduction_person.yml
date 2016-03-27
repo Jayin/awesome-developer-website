@@ -1,0 +1,18 @@
+category: online_eduction_person
+name: 独立视频教育
+websites:
+  - name: egghead.io
+    description: "Accelerate your career today with bite-sized web development video training."
+    url: https://egghead.io
+  
+  - name: laravist
+    description: 从这里开始成为现代的Web开发工程师
+    url: https://laravist.com
+  
+  - name: laracasts
+    description: 'It''s Kinda Like Netflix for Developers.'
+    url: https://laracasts.com
+  
+  - name: 好多视频网
+    description: ""
+    url: http://haoduoshipin.com

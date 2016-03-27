@@ -1,0 +1,18 @@
+category: qa
+name: 问答社区
+websites:
+  - name: stackoverflow
+    description: 全球最大
+    url: http://stackoverflow.com
+    
+  - name: segmentfault
+    description: 来自中国
+    url: http://segmentfault.com
+    
+  - name: quora
+    description: 全球最大问答
+    url: https://www.quora.com
+    
+  - name: 知乎
+    description: 来自中国
+    url: https://www.zhihu.com
