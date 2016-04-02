@@ -9,18 +9,18 @@ websites:
     description: 'CSS Weekly'
     url: http://css-weekly.com/
     
-   - name: Javascript Weekly
+  - name: Javascript Weekly
     description: 'Javascript Weekly'
     url: http://javascriptweekly.com/
     
-   - name: Web Design Weekly
+  - name: Web Design Weekly
     description: 'Web Design Weekly'
     url: http://web-design-weekly.com/
     
-   - name: UX Weekly Weekly
+  - name: UX Weekly Weekly
     description: 'UX Weekly Weekly'
     url: http://uxwkly.com/
    
-   - name: Web Tools Weekly
+  - name: Web Tools Weekly
     description: 'Web Tools Weekly'
     url: http://webtoolsweekly.com/

@@ -1,22 +1,22 @@
 category: personal_blog
 name: 前端开发者博客
 websites:
-  - name: 阮一峰 
+  - name: 阮一峰
     description: '阮一峰'
     url: http://www.ruanyifeng.com/blog/
     
-  - name: 玉伯 
+  - name: 玉伯
     description: '玉伯'
     url: https://github.com/lifesinger/blog/issues
     
-   - name: 张云龙 
+  - name: 张云龙
     description: '张云龙'
     url: https://github.com/fouber/blog/issues
     
-   - name: 寒冬winter 
+  - name: 寒冬winter
     description: '寒冬winter'
     url: https://github.com/wintercn/blog/issues
     
-   - name: 司徒正美 
+  - name: 司徒正美 
     description: '司徒正美'
     url: http://www.cnblogs.com/rubylouvre
