@@ -1,15 +1,15 @@
 category: qa
 name: 问答社区
 websites:
-  - name: stackoverflow
+  - name: Stackoverflow
     description: 全球最大
     url: http://stackoverflow.com
     
-  - name: segmentfault
+  - name: Segmentfault
     description: 来自中国
     url: http://segmentfault.com
     
-  - name: quora
+  - name: Quora
     description: 全球最大问答
     url: https://www.quora.com
     
