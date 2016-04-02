@@ -2,7 +2,7 @@ category: community
 name: 前端社区
 websites:
   - name: CNode
-    description: 
+    description: '国内最大最具影响力的 Node.js 开源技术社区'
     url: https://cnodejs.org
   
   - name: W3cplus
@@ -14,5 +14,5 @@ websites:
     url: http://www.w3cfuns.com
   
   - name: 前端外刊
-    description: 让开发更简单
+    description: '关注前端前沿技术，探寻业界深邃思想'
     url: http://zhuanlan.zhihu.com/FrontendMagazine
