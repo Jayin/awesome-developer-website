@@ -1,0 +1,19 @@
+category: ued
+name: UED团队
+websites:
+  - name: 360奇舞团 
+    description: '360奇舞团（奇虎75Team）是 奇虎360公司Web平台部前端工程师 + 部分特约嘉宾 组成的一个前端团队'
+    url: https://devonline.net
+    
+  - name: 腾讯ISUX
+    description: '腾讯社交用户体验设计'
+    url: https://isux.tencent.com
+    
+  - name: AlloyTeam  
+    description: '腾讯全端 AlloyTeam 团队'
+    url: http://www.alloyteam.com
+    
+  - name: 淘宝UED
+    description: 'TaoBaoUED | 做地球上最好的 UED' 
+    url: http://ued.taobao.org
+

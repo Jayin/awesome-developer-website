@@ -1,0 +1,26 @@
+category: weekly
+name: 前端周报
+websites:
+  - name: Html5 Weekly
+    description: 'Html5 Weekly'
+    url: http://html5weekly.com
+
+  - name: CSS Weekly
+    description: 'CSS Weekly'
+    url: http://css-weekly.com/
+    
+   - name: Javascript Weekly
+    description: 'Javascript Weekly'
+    url: http://javascriptweekly.com/
+    
+   - name: Web Design Weekly
+    description: 'Web Design Weekly'
+    url: http://web-design-weekly.com/
+    
+   - name: UX Weekly Weekly
+    description: 'UX Weekly Weekly'
+    url: http://uxwkly.com/
+   
+   - name: Web Tools Weekly
+    description: 'Web Tools Weekly'
+    url: http://webtoolsweekly.com/
