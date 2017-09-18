@@ -1,0 +1,21 @@
+category: php
+name: PHP
+websites:
+  - name: Composer中文网
+    description: Composer中文网
+    url: http://www.phpcomposer.com/
+
+  - name: packagist
+    description: packagist
+    url: https://packagist.org/
+  - name: awesome-php
+    description: awesome-php
+    url: https://github.com/JingwenTian/awesome-php
+
+  - name: laravel
+    description: laravel
+    url: https://laravel.com/
+    
+  - name: ThinkPHP
+    description: ThinkPHP
+    url: http://www.thinkphp.cn
