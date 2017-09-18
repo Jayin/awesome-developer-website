@@ -1,6 +1,14 @@
 category: code_manager
 name: 代码托管
 websites:
+  - name: Coding
+    description: 让开发更简单
+    url: https://coding
+
+  - name: 码云
+    description: 开源中国基于Git和SVN的代码托管和研发协作平台
+    url: https://gitee.com/
+
   - name: GitHub
     description: 全球最大
     url: https://github.com
@@ -13,10 +21,5 @@ websites:
     description: 'The Git solution for professional teams'
     url: https://bitbucket.org
   
-  - name: Coding
-    description: 让开发更简单
-    url: https://coding.net
-  
-  - name: 开源中国
-    description: 不只是编码，我们更注重社会化协作
-    url: http://git.oschina.net
+
+
