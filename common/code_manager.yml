@@ -3,7 +3,7 @@ name: 代码托管
 websites:
   - name: Coding
     description: 让开发更简单
-    url: https://coding
+    url: https://coding.net
 
   - name: 码云
     description: 开源中国基于Git和SVN的代码托管和研发协作平台
