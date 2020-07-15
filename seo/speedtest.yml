@@ -1,0 +1,6 @@
+category: speedtest
+name: Speedtest
+websites:
+  - name: 17CE
+    description: 国内最专业最权威的实时网站测速、服务器监控、网络监控、IDC质量评测、PING,DNS,HTTP,CDN测试网站速度监控，遍及国内各省和国外的监测点，包括电信、网通、联通、移动、长城宽带、教育网等线路，测试网站在全国各地和海外的打开速度，全面的报表功能、对比功能、地图展示、柱型图展示等专业测速网站 
+    url: http://www.17ce.com
